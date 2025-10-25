@@ -1,0 +1,16 @@
+# โฟลเดอร์ Build (นี่คือตัวการหลักของ 1K+ files)
+/build/
+
+# ไฟล์ Configuration ที่เปลี่ยนไปตามเครื่อง
+/sdkconfig
+/sdkconfig.old
+
+# ไฟล์ชั่วคราวของ VS Code
+.vscode/
+
+# ไฟล์ log
+*.log
+
+# ไฟล์ Backup
+*~
+*.bak
